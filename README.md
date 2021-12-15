@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamandarMasatov 
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with remote employers
 - 📫 How to reach me samandar7961636@yahoo.com
 
 <!---
